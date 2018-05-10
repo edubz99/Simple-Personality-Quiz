@@ -1,4 +1,4 @@
-# Image Editor & Filters
+# Simple-Personality-Quiz
 
 A simple quiz built with HTML, CSS, JavaScript.
 
